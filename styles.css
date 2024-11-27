@@ -1,0 +1,603 @@
+
+.face{
+        background-image: url("../../LAMY/face.png");
+        position: absolute;
+        left: 9px;
+        top: 15px;
+        width: 1900px;
+        height: 200px;
+        z-index: 4; 
+}
+.ground{
+        background-image: url("../../LAMY/ground.png");
+        position: absolute;
+        left: 14px;
+        top: 15px;
+        width: 1900px;
+        height: 200px;
+        z-index: 5; 
+        opacity: 0.5;
+}
+.box1{
+    
+        font-size: 22px;
+        font-family: "Microsoft YaHei";
+        color: rgb(255, 255, 255);
+        line-height: 1.045;
+        position: absolute;
+        left: 580px;
+        top: 69.142px;
+        z-index: 6;
+      
+}
+.pink{
+        background-image: url("../../LAMY/pink.png");
+        position: absolute;
+        left: 855px;
+        top: 15px;
+        width: 150px;
+        height: 80px;
+        z-index: 8;  
+}
+.logo{
+    background-image: url("../../LAMY/logo.png");
+        position: absolute;
+        left: 857px;
+        top: 35px;
+        width: 150px;
+        height: 80px;
+        z-index: 8;  
+}
+.box2{
+        font-size: 100px;
+        font-family: "Segoe Script";
+        color: rgb(210, 210, 210);
+        line-height: 1.31;
+        text-align: center;
+        position: absolute;
+        left: 580px;
+        top: 380px;
+        z-index: 10;
+}
+.border{
+        background-image: url("../../LAMY/border.png");
+        opacity: 0.502;
+        position: absolute;
+        left: 14px;
+        top: 858px;
+        width: 1920px;
+        height: 448px;
+        z-index: 13;
+}
+.white{
+        background-image: url("../../LAMY/white.png");
+        position: absolute;
+        left: 834px;
+        top: 891px;
+        width: 754px;
+        height: 530px;
+        z-index: 14;
+}
+.write{
+        background-image: url("../../LAMY/write.png");
+        position: absolute;
+        left: 425px;
+        top: 897px;
+        width: 421px;
+        height: 505px;
+        z-index: 15;
+}
+.open{
+        background-image: url("../../LAMY/open.png");
+        opacity: 0.704;
+        position: absolute;
+        left: 544px;
+        top: 1232px;
+        width: 365px;
+        height: 237px;
+        z-index: 17;
+      
+}
+.three{
+        background-image: url("../../LAMY/three.png");
+        opacity: 0.704;
+        position: absolute;
+        left: 690px;
+        top: 1325px;
+        width: 365px;
+        height: 237px;
+        z-index: 18;
+}
+h1{
+                font-size: 55px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 0.655;
+                position: absolute;
+                left: 924.271px;
+                top: 930px;
+                z-index: 19;
+              
+}
+h4{
+                font-size: 20px;
+                font-family: "SimSun";
+                color: rgba(0, 0, 0, 0.63);
+                line-height: 1.8;
+                text-align: left;
+                position: absolute;
+                left: 927.13px;
+                top: 1050px;
+                z-index: 20;    
+}
+.box3{
+                font-size: 55px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 0.655;
+                position: absolute;
+                left: 818.295px;
+                top: 1577px;
+                z-index: 22;
+}
+.box4{
+        font-weight: bold;
+}
+.box5{
+                font-size: 25px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.44;
+                position: absolute;
+                left: 449.671px;
+                top: 1761.564px;
+                z-index: 23;
+}
+.box6{
+                font-size: 19px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.368;
+                text-align: center;
+                position: absolute;
+                left: 396.282px;
+                top: 1812.641px;
+                z-index: 24;
+}
+.box7{
+                font-size: 25px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.44;
+                text-align: center;
+                position: absolute;
+                left: 814.445px;
+                top: 1761.564px;
+                z-index: 25;
+               
+}
+.box8{
+                font-size: 19px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.526;
+                text-align: center;
+                position: absolute;
+                left: 787.063px;
+                top: 1814.712px;
+                z-index: 26;
+}
+.box9{
+                font-size: 25px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.16;
+                text-align: center;
+                position: absolute;
+                left: 1233.283px;
+                top: 1764.064px;
+                z-index: 27;
+}
+.box10{
+                font-size: 19px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.526;
+                text-align: center;
+                position: absolute;
+                left: 1176.961px;
+                top: 1816.712px;
+                z-index: 28; 
+}
+.black{
+                background-image: url("../../LAMY/black.png");
+                position: absolute;
+                left: 852px;
+                top: 2041px;
+                width: 241px;
+                height: 65px;
+                z-index: 29;
+}
+.tip{
+                font-size: 25px;
+                font-family: "Microsoft YaHei";
+                color: rgb(251, 251, 251);
+                line-height: 1.16;
+                text-align: left;
+                position: absolute;
+                left: 917.348px;
+                top: 2063px;
+                z-index: 30;
+}
+.go{
+                background-image: url("../../LAMY/go.png");
+                position: absolute;
+                left: 1045px;
+                top: 2061px;
+                width: 34px;
+                height: 29px;
+                z-index: 33;
+}
+.gray{
+                background-image: url("../../LAMY/gray.png");
+                position: absolute;
+                left: 14px;
+                top: 2151px;
+                width: 1920px;
+                height: 389px;
+                z-index: 34;
+}
+.yellow{
+        background-image: url("../../LAMY/yellow.png");
+        position: absolute;
+        left: 14px;
+        top: 2151px;
+        width: 1920px;
+        height: 389px;
+        z-index: 36;
+}
+.like{
+                background-image: url("../../LAMY/like.png");
+                position: absolute;
+                left: 416px;
+                top: 2347px;
+                width: 89px;
+                height: 35px;
+                z-index: 37;
+}
+p{
+                font-size: 20px;
+                font-family: "Britannic Bold";
+                color: rgb(218, 210, 213);
+                line-height: 1.45;
+                position: absolute;
+                left: 433.785px;
+                top: 2335px;
+                z-index: 38; 
+                font-weight: bold; 
+                font-style: italic;  
+}
+.box{
+                background-image: url("../../LAMY/box.png");
+                opacity: 0.71;
+                position: absolute;
+                left: 14px;
+                top: 2539px;
+                width: 1920px;
+                height: 348px;
+                z-index: 41;
+}
+.box11{
+                font-size: 19px;
+                font-family: "Segoe Print";
+                color: rgb(216, 216, 216);
+                line-height: 1.526;
+                position: absolute;
+                left: 893.655px;
+                top: 2609px;
+                z-index: 42;
+}
+.box12{
+                font-size: 25px;
+                font-family: "Britannic Bold";
+                color: rgb(216, 216, 216);
+                line-height: 1.16;
+                position: absolute;
+                left: 829.724px;
+                top: 2645px;
+                z-index: 44;
+}
+.back{
+                background-image: url("../../LAMY/back.png");
+                position: absolute;
+                left: 548px;
+                top: 2702px;
+                width: 836px;
+                height: 296px;
+                z-index: 45;
+}
+.round{
+                border-radius: 50%;
+                background-color: rgb(154, 154, 154);
+                position: absolute;
+                left: 940px;
+                top: 2748px;
+                width: 71px;
+                height: 71px;
+                z-index: 46;              
+}
+.box13{
+                font-size: 17px;
+                font-family: "Microsoft YaHei";
+                color: rgb(0, 0, 0);
+                line-height: 1.176;
+                position: absolute;
+                left: 704.378px;
+                top: 2867.42px;
+                z-index: 48;              
+}
+.box14{          font-size: 18px;
+                font-family: "Segoe Script";
+                color: rgb(0, 0, 0);
+                line-height: 1.111;
+                position: absolute;
+                left: 939.151px;
+                top: 3061.441px;
+                z-index: 49;
+              
+}
+.box15{
+                font-size: 25px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 0.8;
+                position: absolute;
+                left: 895.809px;
+                top: 3100.296px;
+                z-index: 50;
+                font-weight: bold;
+}
+.pa{
+                background-image: url("../../LAMY/pa.png");
+                position: absolute;
+                left: 526px;
+                top: 3161px;
+                width: 249px;
+                height: 227px;
+                z-index: 53;
+}
+.pb{
+                background-image: url("../../LAMY/pb.png");
+                position: absolute;
+                left: 843px;
+                top: 3549px;
+                width: 249px;
+                height: 163px;
+                z-index: 57;         
+}
+.pc{
+                background-image: url("../../LAMY/pc.png");
+                position: absolute;
+                left: 1161px;
+                top: 3409px;
+                width: 249px;
+                height: 303px;
+                z-index: 61;            
+}
+.pd{
+                background-image: url("../../LAMY/pd.png");
+                position: absolute;
+                left: 1160px;
+                top: 3161px;
+                width: 249px;
+                height: 227px;
+                z-index: 65;
+                      
+}
+.pe{
+                background-image: url("../../LAMY/pe.png");
+                position: absolute;
+                left: 843px;
+                top: 3161px;
+                width: 249px;
+                height: 372px;
+                z-index: 69;   
+}
+.pf{
+                background-image: url("../../LAMY/pf.png");
+                position: absolute;
+                left: 526px;
+                top: 3409px;
+                width: 249px;
+                height: 303px;
+                z-index: 73;       
+}
+.buy{
+                background-image: url("../../LAMY/buy.png");
+                position: absolute;
+                left: 858px;
+                top: 3790px;
+                width: 221px;
+                height: 68px;
+                z-index: 79;   
+}
+.box16{
+                font-size: 25px;
+                font-family: "SimSun";
+                color: rgb(247, 247, 247);
+                line-height: 0.8;
+                position: absolute;
+                left: 892.006px;
+                top: 3817.055px;
+                z-index: 80;              
+}
+.went{
+                background-image: url("../../LAMY/went.png");
+                position: absolute;
+                left: 1030px;
+                top: 3813px;
+                width: 30px;
+                height: 29px;
+                z-index: 81;
+}
+.ba{
+                background-image: url("../../LAMY/ba.png");
+                position: absolute;
+                left: 16px;
+                top: 3897px;
+                width: 1920px;
+                height: 341px;
+                z-index: 93;
+}
+.bb{
+                background-image: url("../../LAMY/bb.png");
+                position: absolute;
+                left: 547px;
+                top: 3981px;
+                width: 898px;
+                height: 455px;
+                z-index: 94;             
+}
+.ca{
+                background-image: url("../../LAMY/ca.png");
+                position: absolute;
+                left: 579px;
+                top: 4004px;
+                width: 377px;
+                height: 121px;
+                z-index: 95;
+}
+.cb{
+                background-image: url("../../LAMY/cb.png");
+                position: absolute;
+                left: 579px;
+                top: 4140px;
+                width: 377px;
+                height: 121px;
+                z-index: 97;
+}
+.cc{
+                background-image: url("../../LAMY/cc.png");
+                position: absolute;
+                left: 579px;
+                top: 4275px;
+                width: 377px;
+                height: 121px;
+                z-index: 99;
+}
+.box17{
+                font-size: 19px;
+                font-family: "Britannic Bold";
+                color: rgb(1, 1, 1);
+                line-height: 1.053;
+                text-align: left;
+                position: absolute;
+                left: 975.921px;
+                top: 4047.27px;
+                z-index: 101;
+                font-weight: bold;
+}
+.box18{
+                font-size: 19px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 1.053;
+                position: absolute;
+                left: 976.279px;
+                top: 4171.762px;
+                z-index: 102;
+                font-weight: bold;
+}
+.box19{
+                font-size: 19px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 1.053;
+                position: absolute;
+                left: 975.871px;
+                top: 4309.262px;
+                z-index: 103;
+                font-weight: bold;
+}
+.da{
+                background-image: url("../../LAMY/da.png");
+                position: absolute;
+                left: 879px;
+                top: 4461px;
+                width: 202px;
+                height: 60px;
+                z-index: 106;
+}
+.box20{
+                font-size: 25px;
+                font-family: "SimSun";
+                color: rgb(255, 255, 255);
+                line-height: 0.8;
+                position: absolute;
+                left: 893.828px;
+                top: 4483.852px;
+                z-index: 107;
+}
+.db{
+                background-image: url("../../LAMY/db.png");
+                position: absolute;
+                left: 1036px;
+                top: 4478px;
+                width: 30px;
+                height: 29px;
+                z-index: 108;
+}
+.last{
+                background-image: url("../../LAMY/last.png");
+                position: absolute;
+                left: 11px;
+                top: 4549px;
+                width: 1900px;
+                height: 200px;
+                z-index: 86;
+                background-size: cover;
+}
+.real{
+                background-image: url("../../LAMY/real.png");
+                opacity: 0.169;
+                position: absolute;
+                left: 22px;
+                top: 4550px;
+                width: 1900px;
+                height: 200px;
+                z-index: 87;
+                background-size: cover;
+}
+.box21{
+                font-size: 113px;
+                font-family: "Britannic Bold";
+                color: rgb(185, 184, 184);
+                line-height: 0.177;
+                position: absolute;
+                left: 800.587px;
+                top: 4807px;
+                z-index: 90;
+}
+.box22{
+                font-size: 19px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 1.053;
+                position: absolute;
+                left: 1147.17px;
+                top: 4837.161px;
+                z-index: 91;
+                font-weight: bold;
+}
+.box23{
+                font-size: 19px;
+                font-family: "Britannic Bold";
+                color: rgb(0, 0, 0);
+                line-height: 1.053;
+                text-align: right;
+                position: absolute;
+                left: 687.252px;
+                top: 4837.161px;
+                z-index: 92;
+                font-weight: bold;
+}
